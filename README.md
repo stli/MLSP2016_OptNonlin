@@ -1,4 +1,5 @@
 Author: Steffen Limmer <steffen.limmer@tu-berlin.de>
+
 Matlab code to learn structured nonlinear mmse estimators for signals distributed uniformly in generalized unit balls. The code was used to generate figure 4 and 5 presented in the paper specified below. Please cite the paper whenever you plan to use this code. To generate all results run the simulation scripts and 'plot_results.m' for Fig. 4, 'plot_pcoeffs.m' for Fig. 5.
 
 @inproceedings{LiSt16,
