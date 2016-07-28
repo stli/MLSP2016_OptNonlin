@@ -3,12 +3,18 @@ Author: Steffen Limmer <steffen.limmer@tu-berlin.de>
 Matlab code to learn structured nonlinear mmse estimators for signals distributed uniformly in generalized unit balls. The code was used to generate figure 4 and 5 presented in the paper specified below. Please cite the paper whenever you plan to use this code. To generate all results run the simulation scripts and 'plot_results.m' for Fig. 4, 'plot_pcoeffs.m' for Fig. 5.
 
 @inproceedings{LiSt16,
+
 	author = {Limmer, S. and Stanczak, S.},
+	
 	title = {Towards optimal nonlinearities for sparse recovery using higher-order statistics},
+	
 	year = {2016},
+	
 	booktitle = {Proceedings of the IEEE International Workshop on Machine Learning For Signal Processing (MLSP)},
+	
 	month = {September 13--16},
-	year = {2016},
+	
+	year = {2016},	
 }
 
 [General Information]
