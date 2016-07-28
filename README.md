@@ -9,7 +9,7 @@ Matlab code to learn structured nonlinear mmse estimators for signals distribute
 	booktitle = {Proceedings of the IEEE International Workshop on Machine Learning For Signal Processing (MLSP)},
 	month = {September 13--16},
 	year = {2016},	
-}'
+}`
 
 [General Information]
 - This software was tested on MATLAB Version R2014b using Manopt 2.0 (http://www.manopt.org) and CVX Version 1.22 (http://cvxr.com) under Linux 64bit
